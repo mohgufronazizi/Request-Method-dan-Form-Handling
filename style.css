@@ -1,0 +1,24 @@
+body{
+	background-color: coral;
+	font-family: cursive;
+}
+p{
+	font-size: 10px;
+	color: red;
+}
+.col{
+	border-radius: 20px;
+}
+#logo img{
+	width: 150px;
+}
+#form .col{
+	min-height: 500px;
+}
+
+th{
+	color: white;
+}
+td,th{
+	text-align: center;
+}
